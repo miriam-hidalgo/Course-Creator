@@ -1,5 +1,5 @@
-# project-3
+# project-3- Course Creator
 
-adding link to our project github
+# Deployed site:
 https://gentle-garden-19053.herokuapp.com/
 
