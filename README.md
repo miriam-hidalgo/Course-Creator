@@ -1,4 +1,4 @@
-# project-3- Course Creator
+# Course Creator
 
 # Purpose
 * Web application that allows employees to register students to a class. Allows for the creation of new classes, adding new instructors & students, tracks student attendance. Requires a login to view/edit content.
